@@ -506,7 +506,7 @@ button[type="submit"]:hover {
 
 }
 
-@media (max-width: 718px) {
+@media (max-width: 768px) {
 
     /* Contact Us */
     .card-img-top {
