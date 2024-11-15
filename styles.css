@@ -32,11 +32,7 @@ body {
     transition: transform 0.2s ease-in-out;
 }
 
-/* Mobile navbar styling */
 
-.navbar-toggler {
-    margin-right: 1rem;
-}
 
 /* Parallax Hero Section Styling */
 .hero {
@@ -328,7 +324,7 @@ button[type="submit"]:hover {
     flex-direction: column;
     flex-wrap: wrap;
     align-content: center;
-    justify-content: space;
+    justify-content: center;
     height: 100%;
 }
 
@@ -336,6 +332,8 @@ button[type="submit"]:hover {
     padding-bottom: 20px;
     justify-self: center;
 }
+
+
 
 .membership-img {
     width: 300px;
