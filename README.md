@@ -1,6 +1,6 @@
 # The Garden Shop Website
 
-**Author**: Anukrati Mehta  
+**Author**: Anukrati Mehta (x23377046)
 **Submission Date**: 16th November 2024  
 **Course**: Higher Diploma in Computing  
 **Module**: Web Design and Client-Side Scripting  
