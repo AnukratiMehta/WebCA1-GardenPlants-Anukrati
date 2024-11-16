@@ -516,6 +516,14 @@ button[type="submit"]:hover {
     }
 }
 
+@media (max-width: 475px) {
+
+    /* Garden Plants */
+    .carousel-caption {
+        top: 40%;
+    }
+}
+
 @media (max-width: 375px) {
 
     /* Contact Us */
@@ -523,4 +531,6 @@ button[type="submit"]:hover {
         margin: 1rem;
     }
 }
+
+
 
